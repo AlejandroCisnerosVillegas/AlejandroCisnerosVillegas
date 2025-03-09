@@ -113,7 +113,6 @@
 </td>  
 </table>                                                                                 
 </div>
-<br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Actividad en GitHub </b>
 
