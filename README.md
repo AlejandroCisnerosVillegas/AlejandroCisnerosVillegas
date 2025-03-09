@@ -4,11 +4,11 @@
 <div align="center">
 <table>
   <tr>
- <td style="vertical-align: middle;">
-      <h3 align="center">Aquí encontrarás proyectos, ideas y experimentos nacidos del deseo de crear soluciones eficientes y funcionales.</h3>
+ <td>
+      <h3 align="center" vertical-align="middle">Aquí encontrarás proyectos, ideas y experimentos nacidos del deseo de crear soluciones eficientes y funcionales.</h3>
     </td>
-    <td style="vertical-align: middle">
-      <img width="150%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+    <td>
+      <img align="center" vertical-align="middle" width="100%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
     </td>
   </tr>
 </table>
