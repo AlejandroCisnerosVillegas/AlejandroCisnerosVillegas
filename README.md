@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Un viajero del código ha llegado... <b>¡Bienvenid@!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3>Aquí encontrarás proyectos, ideas y experimentos nacidos del deseo de crear soluciones eficientes y funcionales.</h3>
+<h1 align="center">Un viajero digital ha llegado... <a href="https://www.alejandrovillegas.net/">¡Bienvenid@!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h4>Aquí encontrarás proyectos, ideas y experimentos nacidos del deseo de crear soluciones eficientes y funcionales.</h4>
 </div>
 <img src="./Banner.png">
 <!--
