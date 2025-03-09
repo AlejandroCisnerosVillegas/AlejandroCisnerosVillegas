@@ -8,7 +8,7 @@
       <h3 align="center">Aquí encontrarás proyectos, ideas y experimentos nacidos del deseo de crear soluciones eficientes y funcionales.</h3>
     </td>
     <td style="vertical-align: middle">
-      <img width="100%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+      <img alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
     </td>
   </tr>
 </table>
