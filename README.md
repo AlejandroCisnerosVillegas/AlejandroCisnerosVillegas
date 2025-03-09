@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Un viajero del código ha llegado... <b>¡Bienvenid@!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p>Aquí encontrarás proyectos, ideas y experimentos nacidos del deseo de crear soluciones eficientes y funcionales.</p>
+<h3>Aquí encontrarás proyectos, ideas y experimentos nacidos del deseo de crear soluciones eficientes y funcionales.</h3>
 </div>
 <img src="./Banner.png">
 <!--
