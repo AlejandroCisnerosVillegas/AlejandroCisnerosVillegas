@@ -5,7 +5,7 @@
 <table style="border: none; width: 100%;">
   <tr>
     <td style="width: 30%; vertical-align: middle; border: none;">
-      <h3>Aquí encontrarás proyectos, ideas y experimentos nacidos del deseo de crear soluciones eficientes y funcionales.</h3>
+      <h3 algin="center">Aquí encontrarás proyectos, ideas y experimentos nacidos del deseo de crear soluciones eficientes y funcionales.</h3>
     </td>
     <td style="width: 70%; vertical-align: middle; text-align: right; border: none;">
       <img width="100%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
