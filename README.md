@@ -4,9 +4,11 @@
 
 <table style="border: none; width: 100%;">
   <tr>
-    <td style="width: 30%; vertical-align: middle; border: none; text-align: center;">
+  <div align="center">
+ <td style="width: 30%; vertical-align: middle; border: none; text-align: center;">
       <h3>Aquí encontrarás proyectos, ideas y experimentos nacidos del deseo de crear soluciones eficientes y funcionales.</h3>
     </td>
+</div>
     <td style="width: 70%; vertical-align: middle; border: none;">
       <img width="100%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
     </td>
