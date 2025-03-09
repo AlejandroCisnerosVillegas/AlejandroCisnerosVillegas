@@ -19,8 +19,8 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
-[![CV](https://img.shields.io/badge/CV-%2300A9E0.svg?style=for-the-badge&logo=pdf&logoColor=white)](https://link-a-tu-cv.com)
-[![Web](https://img.shields.io/badge/Web-%2300A9E0.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.alejandrovillegas.net/)
+[![CV](https://img.shields.io/badge/CV-D14836.svg?style=for-the-badge&logo=file-pdf&logoColor=white)](https://link-a-tu-cv.com)
+[![Web](https://img.shields.io/badge/Web-%23FFA500.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.alejandrovillegas.net/)
 
 <img src="./Banner.png">
 <p align="center">
