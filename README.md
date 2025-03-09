@@ -13,6 +13,15 @@
   </tr>
 </table>
 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
+[![CV](https://img.shields.io/badge/CV-%2300A9E0.svg?style=for-the-badge&logo=pdf&logoColor=white)](https://link-a-tu-cv.com)
+[![Web](https://img.shields.io/badge/Web-%2300A9E0.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.alejandrovillegas.net/)
+
 <img src="./Banner.png">
 <p align="center">
   <a href="https://skillicons.dev">
