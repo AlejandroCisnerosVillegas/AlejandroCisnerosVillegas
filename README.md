@@ -22,33 +22,18 @@
   </tr>
 </table>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,sqlite,react,vite,nodejs,npm,postman,bootstrap,sass,less,styledcomponents,jquery,redux,git,github,vscode,powershell,windows" />
   </a>
 </p>
 
-### ⚙️ &nbsp;Contact Information
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Actividad en GitHub </b>
 
-<p align="center">
-  <a href="mailto:contact@alejandrovillegas.net">
-    <img src="https://img.shields.io/badge/email-contact%40alejandrovillegas.net-blue.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/alejandro-cisneros-villegas">
-    <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/alejandrovillegas">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.alejandrovillegas.net">
-    <img src="https://img.shields.io/badge/website-alejandrovillegas.net-%2300b2ff.svg?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://wa.me/525529002158">
-    <img src="https://img.shields.io/badge/whatsapp-%2304CC52.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
-
-### ⚙️ &nbsp;GitHub Analytics
+<br>
 
 <p align="center">
 <a href="https://github.com/AlejandroCisnerosVillegas">
