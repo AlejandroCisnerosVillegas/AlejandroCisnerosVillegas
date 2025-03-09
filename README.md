@@ -2,12 +2,12 @@
 <h1 align="center">Un viajero digital ha llegado... <a href="https://www.alejandrovillegas.net/">¡Bienvenid@!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 
-<table style="border: none; width: 100%;">
+<table>
   <tr>
- <td style="width: 30%; vertical-align: middle; border: none; text-align: center;">
+ <td style="vertical-align: middle;">
       <h3 style="text-align:center;">Aquí encontrarás proyectos, ideas y experimentos nacidos del deseo de crear soluciones eficientes y funcionales.</h3>
     </td>
-    <td style="width: 70%; vertical-align: middle; border: none;">
+    <td style="vertical-align: middle">
       <img width="100%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
     </td>
   </tr>
