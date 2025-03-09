@@ -35,8 +35,6 @@
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V6dHMxbjlvbjE1MjNod2RoMXM0d3ZkZ203OGlhNzYwenFtcjd6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xHwDPt2kFONpKI8Rfw/giphy.gif" width ="25"><b> Un poco sobre mí</b>
 
-## Proyectos _bombitas_
-
 <table>
 <tr>
 <td width="50%">
