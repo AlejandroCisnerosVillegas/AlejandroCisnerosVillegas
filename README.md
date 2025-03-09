@@ -9,6 +9,7 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/tu-numero)
+![NPM](https://img.shields.io/badge/Curriculum-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 [![CV](https://img.shields.io/badge/CV-D14836.svg?style=for-the-badge&logo=pdf&logoColor=white)](https://link-a-tu-cv.com)
 
 <table>
