@@ -10,6 +10,26 @@
   </a>
 </p>
 
+### ⚙️ &nbsp;Contact Information
+
+<p align="center">
+  <a href="mailto:contact@alejandrovillegas.net">
+    <img src="https://img.shields.io/badge/email-contact%40alejandrovillegas.net-blue.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/alejandro-cisneros-villegas">
+    <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/alejandrovillegas">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.alejandrovillegas.net">
+    <img src="https://img.shields.io/badge/website-alejandrovillegas.net-%2300b2ff.svg?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://wa.me/525529002158">
+    <img src="https://img.shields.io/badge/whatsapp-%2304CC52.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
