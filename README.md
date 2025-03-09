@@ -2,6 +2,11 @@
 <h1 align="center">Un viajero digital ha llegado... <a href="https://www.alejandrovillegas.net/">¡Bienvenid@!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><h3>Aquí encontrarás proyectos, ideas y experimentos nacidos del deseo de crear soluciones eficientes y funcionales.</h3></h1>
 </div>
 <img src="./Banner.png">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 <!--
 **AlejandroCisnerosVillegas/AlejandroCisnerosVillegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
