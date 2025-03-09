@@ -11,8 +11,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+525529002158)
 [![Curriculum](https://img.shields.io/badge/Curriculum-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://www.alejandrovillegas.net/assets/Curriculum-Vitae.pdf)
 
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpscjc2aGZ1ZHhiNmp2ZWVuZzN0bjZhYWppeWozcWIzbjRxY3EycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VdoIFLsMIlwzfKD520/giphy.gif" width ="25"><b> Proyectos</b>
-
 <table>
   <tr>
     <td>
