@@ -2,13 +2,9 @@
 <h1 align="center">Un viajero digital ha llegado... <a href="https://www.alejandrovillegas.net/">¡Bienvenid@!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; width: 50%;">
-    <h3>Aquí encontrarás proyectos, ideas y experimentos nacidos del deseo de crear soluciones eficientes y funcionales.</h3>
-  </div>
-  <div style="flex: 1; width: 50%;">
-    <img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-  </div>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <h3 style="flex: 0 0 40%; text-align: left;">Aquí encontrarás proyectos, ideas y experimentos nacidos del deseo de crear soluciones eficientes y funcionales.</h3>
+  <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="Github" style="flex: 0 0 60%; align-self: center;"/>
 </div>
 
 <img src="./Banner.png">
