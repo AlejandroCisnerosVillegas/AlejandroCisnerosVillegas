@@ -4,14 +4,12 @@
 
 <img src="./Banner.png">
 
-[![HTML5](https://img.shields.io/badge/My+website-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.alejandrovillegas.net/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/tu-numero)
-![NPM](https://img.shields.io/badge/Curriculum-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Curriculum Vitae](https://img.shields.io/badge/Curriculum_Vitae-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-[![CV](https://img.shields.io/badge/CV-D14836.svg?style=for-the-badge&logo=pdf&logoColor=white)](https://link-a-tu-cv.com)
+[![HTML5](https://img.shields.io/badge/Pagina_oficial-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.alejandrovillegas.net/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-programmer/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlejandroCisnerosVillegas)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@alejandrovillegas.net)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+525529002158)
+[![Curriculum Vitae](https://img.shields.io/badge/Curriculum-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://www.alejandrovillegas.net/assets/Curriculum-Vitae.pdf)
 
 <table>
   <tr>
