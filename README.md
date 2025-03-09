@@ -4,29 +4,12 @@
 
 <img src="./Banner.png">
 
-<a href="https://www.alejandrovillegas.net/" target="_blank">
-  <img src="https://img.shields.io/badge/Pagina_oficial-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/alejandro-programmer/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/AlejandroCisnerosVillegas" target="_blank">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="mailto:contacto@alejandrovillegas.net" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://wa.me/+525529002158" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-
-<a href="https://www.alejandrovillegas.net/assets/Curriculum-Vitae.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Curriculum-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-</a>
+[![HTML5](https://img.shields.io/badge/Pagina_oficial-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.alejandrovillegas.net/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-programmer/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlejandroCisnerosVillegas)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@alejandrovillegas.net)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+525529002158)
+[![Curriculum](https://img.shields.io/badge/Curriculum-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://www.alejandrovillegas.net/assets/Curriculum-Vitae.pdf)
 
 <table>
   <tr>
@@ -69,8 +52,8 @@
 
 <p align="center">
 <a href="https://github.com/AlejandroCisnerosVillegas">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejandroCisnerosVillegas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejandroCisnerosVillegas&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejandroCisnerosVillegas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejandroCisnerosVillegas&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
 
@@ -80,7 +63,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=AlejandroCisnerosVillegas&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
   </a>
 </div>
-</p>        
+</p>       
 <!--
 **AlejandroCisnerosVillegas/AlejandroCisnerosVillegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
