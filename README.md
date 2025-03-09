@@ -4,7 +4,7 @@
 <img src="./Banner.png">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,sqlite,react,vite,nodejs,npm,bootstrap,jquery,sass,redux,git,github,vscode,windows,codepen,gmail,less,linkedin,postman,powershell,stackoverflow,styledcomponents,sketchup" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,sqlite,react,vite,nodejs,npm,postman,bootstrap,sass,less,styledcomponents,jquery,redux,git,github,vscode,windows,powershell,codepen" />
   </a>
 </p>
 <!--
