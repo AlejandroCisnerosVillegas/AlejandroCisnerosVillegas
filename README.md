@@ -3,8 +3,8 @@
 </div>
 
 <div style="display: flex; align-items: center;">
-  <h3>Aquí encontrarás proyectos, ideas y experimentos nacidos del deseo de crear soluciones eficientes y funcionales.</h3>
-  <img width="55%" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+  <h3 align="left">Aquí encontrarás proyectos, ideas y experimentos nacidos del deseo de crear soluciones eficientes y funcionales.</h3>
+  <img width="55%" align="right"  src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </div>
 
 <img src="./Banner.png">
