@@ -4,7 +4,7 @@
 
 <img src="./Banner.png">
 
-[![Web](https://img.shields.io/badge/Web-%23FFA500.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.alejandrovillegas.net/)
+[![WEB](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.alejandrovillegas.net/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
