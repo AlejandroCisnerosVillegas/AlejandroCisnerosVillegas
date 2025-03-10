@@ -82,10 +82,10 @@
 <a href="https://github.com/AlejandroCisnerosVillegas/Plataforma-de-Gestion-de-Viajes" target="_blank"><img src="./Intro-Banner-03.png" width="400" alt="Plataforma de Gestión de Viajes"></a>
 <p>
 <a href="https://github.com/AlejandroCisnerosVillegas/Plataforma-de-Gestion-de-Viajes" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="https://alejandrovillegas.net/projects/project-07/index.php" target="_blank">
+<img src="https://img.shields.io/badge/-Vista_Previa-purple?style=for-the-badge&color=8A2BE2">
 </a>
 </p>
 <p>Registra, consulta y administra pruebas COVID-19 de forma rápida y segura. 📊✅ Notificaciones en tiempo real y acceso eficiente a informes. <strong>✨ Optimiza tiempos, mejora la organización.</strong></p>
@@ -99,10 +99,10 @@
 <a href="https://github.com/AlejandroCisnerosVillegas/Portal-de-Ventas-Online" target="_blank"><img src="./Intro-Banner-04.png" width="400" alt="Portal de ventas online"></a>
 <p>
 <a href="https://github.com/AlejandroCisnerosVillegas/Portal-de-Ventas-Online" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+<a href="https://alejandrovillegas.net/projects/project-04/index.php" target="_blank">
+<img src="https://img.shields.io/badge/-Vista_Previa-blue?style=for-the-badge&color=00AEEF">
 </a>
 </p>
 <p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
