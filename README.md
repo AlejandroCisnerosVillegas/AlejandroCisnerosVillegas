@@ -105,7 +105,7 @@
 <img src="https://img.shields.io/badge/-Vista_Previa-blue?style=for-the-badge&color=00AEEF">
 </a>
 </p>
-<p>Compra fácil y segura de productos electrónicos. 🎧🖥️ Explora, agrega al carrito y paga con confianza en una plataforma intuitiva. <strong>✨ Tecnología a tu alcance, con solo un clic.</strong></p>
+<p>Descubre una amplia gama de productos electrónicos de calidad, desde audífonos hasta pantallas para PC. 🎧🖥️ Disfruta de una experiencia de compra rápida, segura e intuitiva, con detalles completos de cada producto y un proceso de pago confiable. <strong>✨ Compra fácil, segura y conveniente, todo en un solo lugar.</strong></p>
 </div>
                                                                                       
 </td>  
