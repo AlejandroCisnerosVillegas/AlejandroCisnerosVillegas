@@ -45,7 +45,7 @@
 <a href="https://github.com/AlejandroCisnerosVillegas/Sistema-de-Inventario-y-Ventas-Online" target="_blank">
 <img src="https://img.shields.io/badge/CODIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
+<a href="https://alejandrovillegas.net/projects/project-09/index.php" target="_blank">
 <img src="https://img.shields.io/badge/Vista_Previa-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
@@ -56,19 +56,19 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Control de Registro de Pruebas</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank"><img src="./Intro-Banner-02.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank">
+<img src="https://img.shields.io/badge/CODIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+<a href="https://alejandrovillegas.net/projects/project-08/index.php" target="_blank">
+<img src="https://img.shields.io/badge/-Vista_Previa-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Facilita el registro, consulta y administración de pruebas COVID-19 en una sola plataforma. 📊✅ Pacientes y administradores pueden acceder a informes, asignar tareas y recibir notificaciones en tiempo real.<strong>✨ Organización, rapidez y transparencia en la gestión de pruebas diagnósticas.</strong>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -94,11 +94,11 @@
 </td>
 
 <td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
+<h3 align="center">Control de Registro de Pruebas</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
+<a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
