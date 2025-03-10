@@ -88,7 +88,7 @@
 <img src="https://img.shields.io/badge/-Vista_Previa-purple?style=for-the-badge&color=8A2BE2">
 </a>
 </p>
-<p>Registra, consulta y administra pruebas COVID-19 de forma rápida y segura. 📊✅ Notificaciones en tiempo real y acceso eficiente a informes. <strong>✨ Optimiza tiempos, mejora la organización.</strong></p>
+<p>Explora, planifica y reserva tu viaje ideal con facilidad. 🏖️📅 Usuarios y administradores disfrutan de herramientas avanzadas para una gestión eficiente y sin complicaciones. <strong>✨ Tu viaje, tu experiencia, en un solo lugar.</strong></p>
 </div>
                                                                                       
 </td>
@@ -105,7 +105,7 @@
 <img src="https://img.shields.io/badge/-Vista_Previa-blue?style=for-the-badge&color=00AEEF">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>Compra fácil y segura de productos electrónicos. 🎧🖥️ Explora, agrega al carrito y paga con confianza en una plataforma intuitiva. <strong>✨ Tecnología a tu alcance, con solo un clic.</strong></p>
 </div>
                                                                                       
 </td>  
