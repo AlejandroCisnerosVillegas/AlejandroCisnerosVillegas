@@ -38,36 +38,37 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Sistema de Inventario y Ventas Online</h3>
+<h3 align="center">Curso Android Básico</h3>
 <div align="center">
-<a href="https://github.com/AlejandroCisnerosVillegas/Sistema-de-Inventario-y-Ventas-Online" target="_blank"><img src="./Intro-Banner-01.png" width="400" alt="Sistema de Inventario y Ventas Online"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
 <p>
-<a href="https://github.com/AlejandroCisnerosVillegas/Sistema-de-Inventario-y-Ventas-Online" target="_blank">
-<img src="https://img.shields.io/badge/CODIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://alejandrovillegas.net/projects/project-09/index.php" target="_blank">
-<img src="https://img.shields.io/badge/Vista_Previa-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://youtu.be/vJapzH_46a8" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Optimiza el control de inventario y ventas con nuestra aplicación web. 💻📊 Administra productos, genera facturas y supervisa operaciones clave de forma rápida y sencilla.<strong>✨ Eficiencia, organización y crecimiento en un solo lugar.</strong>
+<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
-<h3 align="center">Control de Registro de Pruebas</h3>
+               <br>
+<h3 align="center">Arquitectura MVVM</h3>
 <div align="center">                                       
-<a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank"><img src="./Intro-Banner-02.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
-<a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank">
-<img src="https://img.shields.io/badge/CODIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://alejandrovillegas.net/projects/project-08/index.php" target="_blank">
-<img src="https://img.shields.io/badge/-Vista_Previa-green?style=for-the-badge&color=3fFD7f">
+<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Registra, consulta y administra pruebas COVID-19 de forma rápida y segura. 📊✅ Notificaciones en tiempo real y acceso eficiente a informes. <strong>✨ Optimiza tiempos, mejora la organización.</strong>
+</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -93,11 +94,11 @@
 </td>
 
 <td width="50%">
-<h3 align="center">Control de Registro de Pruebas</h3>
+<h3 align="center">Curso Kotlin Multiplatform</h3>
 <div align="center">
-<a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
-<a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank">
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
@@ -110,6 +111,7 @@
 </td>  
 </table>                                                                                 
 </div>
+<br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Actividad en GitHub </b>
 
