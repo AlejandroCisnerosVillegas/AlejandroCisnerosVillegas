@@ -68,7 +68,7 @@
 <img src="https://img.shields.io/badge/-Vista_Previa-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Facilita el registro, consulta y administración de pruebas COVID-19 en una sola plataforma. 📊✅ Pacientes y administradores pueden acceder a informes, asignar tareas y recibir notificaciones en tiempo real.<strong>✨ Organización, rapidez y transparencia en la gestión de pruebas diagnósticas.</strong>
+</p>Registra, consulta y administra pruebas COVID-19 de forma rápida y segura. 📊✅ Notificaciones en tiempo real y acceso eficiente a informes. <strong>✨ Optimiza tiempos, mejora la organización.</strong>
 </div>                                                             
 </table>                                                                                 
 </div>
