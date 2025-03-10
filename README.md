@@ -16,18 +16,18 @@
 ```javascript
 const alejandro = {
   profession: "Desarrollador web",
-  experience: "Un año y medio en desarrollo web",
-  skills: "Facilidad tanto para front-end como para back-end",
+  experience: "18 meses creando soluciones web.",
+  skills:
+    "Puedo trabajar tanto en front-end como en back-end, pero me apasiona más el front-end.",
   focus: "Especializándome en React y diseño UI/UX",
   passion:
-    "Crear interfaces atractivas y funcionales que mejoren la experiencia del usuario",
+    "Desarrollando experiencias visuales atractivas y funcionales para los usuarios.",
   interests: [
-    "Desarrollo web",
-    "Interacción usuario-interfaz",
-    "Experiencia de usuario",
+    "Innovación en diseño web",
+    "Interfaces intuitivas y atractivas",
+    "Optimización de la experiencia del usuario",
   ],
-  learning:
-    "Perfeccionando mis habilidades en React y explorando nuevas tendencias en diseño web",
+  learning: "Dominando React y explorando enfoques modernos en diseño web.",
 };
 ```
 
