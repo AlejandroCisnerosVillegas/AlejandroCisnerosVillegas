@@ -68,7 +68,7 @@
 <img src="https://img.shields.io/badge/-Vista_Previa-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Optimiza el control de inventario y ventas con nuestra aplicación web. 💻📊 Administra productos, genera facturas y supervisa operaciones clave de forma rápida y sencilla. <strong>✨ Eficiencia, organización y crecimiento en un solo lugar.</strong></p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -88,7 +88,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>Registra, consulta y administra pruebas COVID-19 de forma rápida y segura. 📊✅ Notificaciones en tiempo real y acceso eficiente a informes. <strong>✨ Optimiza tiempos, mejora la organización.</strong></p>
 </div>
                                                                                       
 </td>
