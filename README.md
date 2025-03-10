@@ -49,7 +49,7 @@
 <img src="https://img.shields.io/badge/-Vista_Previa-blue?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+</p>Optimiza el control de inventario y ventas con nuestra aplicación web. 💻📊 Administra productos, genera facturas y supervisa operaciones clave de forma rápida y sencilla. <strong>✨ Eficiencia, organización y crecimiento en un solo lugar.</strong></p>
 </div>
                                                                                       
 </td>
@@ -68,7 +68,7 @@
 <img src="https://img.shields.io/badge/-Vista_Previa-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Optimiza el control de inventario y ventas con nuestra aplicación web. 💻📊 Administra productos, genera facturas y supervisa operaciones clave de forma rápida y sencilla. <strong>✨ Eficiencia, organización y crecimiento en un solo lugar.</strong></p>
+<p>Registra, consulta y administra pruebas COVID-19 de forma rápida y segura. 📊✅ Notificaciones en tiempo real y acceso eficiente a informes. <strong>✨ Optimiza tiempos, mejora la organización.</strong></p>
 </div>                                                             
 </table>                                                                                 
 </div>
