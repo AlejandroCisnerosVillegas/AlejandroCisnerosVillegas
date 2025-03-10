@@ -117,12 +117,10 @@ Soy **desarrollador web** con un año y medio de experiencia. Aunque tengo facil
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Actividad en GitHub </b>
 
-<br>
-
 <p align="center">
   <a href="https://github.com/AlejandroCisnerosVillegas">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejandroCisnerosVillegas&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejandroCisnerosVillegas&layout=compact&langs_count=8&theme=github_dark_dimmed"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejandroCisnerosVillegas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejandroCisnerosVillegas&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </p>
 
