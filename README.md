@@ -13,6 +13,8 @@
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VwMm1xOWw1ZDB0OGk3dm1tMmxxcTZ3a2ZmcWNqbGljaWN0NXgzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ye7UYS5NTl6arPbDw7/giphy.gif" width ="25"><b> Un poco sobre mí</b>
 
+<br>
+
 Soy **desarrollador web** con un año y medio de experiencia. Aunque tengo facilidad tanto para **front-end** como para **back-end**, me estoy enfocando más en **front-end** y especializándome en **React** y **UI/UX**. Mi pasión es crear interfaces atractivas y funcionales que mejoren la experiencia del usuario.
 
 <table>
@@ -29,6 +31,7 @@ Soy **desarrollador web** con un año y medio de experiencia. Aunque tengo facil
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Herramientas de programación empleadas</b>
 
 <br>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,sqlite,react,vite,nodejs,npm,postman,bootstrap,sass,less,styledcomponents,jquery,redux,git,github,vscode,powershell,windows" />
@@ -36,6 +39,8 @@ Soy **desarrollador web** con un año y medio de experiencia. Aunque tengo facil
 </p>
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V6dHMxbjlvbjE1MjNod2RoMXM0d3ZkZ203OGlhNzYwenFtcjd6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xHwDPt2kFONpKI8Rfw/giphy.gif" width ="25"><b> Mis proyectos más recientes</b>
+
+<br>
 
 <table>
 <tr>
@@ -113,9 +118,10 @@ Soy **desarrollador web** con un año y medio de experiencia. Aunque tengo facil
 </td>  
 </table>                                                                                 
 </div>
-<br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Actividad en GitHub </b>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/AlejandroCisnerosVillegas">
