@@ -13,6 +13,8 @@
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VwMm1xOWw1ZDB0OGk3dm1tMmxxcTZ3a2ZmcWNqbGljaWN0NXgzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ye7UYS5NTl6arPbDw7/giphy.gif" width ="25"><b> Un poco sobre mí</b>
 
+Soy **desarrollador web** con un año y medio de experiencia. Aunque tengo facilidad tanto para **front-end** como para **back-end**, me estoy enfocando más en **front-end** y especializándome en **React** y **UI/UX**. Mi pasión es crear interfaces atractivas y funcionales que mejoren la experiencia del usuario.
+
 <table>
   <tr>
     <td>
