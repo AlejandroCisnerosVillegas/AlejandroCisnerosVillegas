@@ -137,7 +137,7 @@ const alejandro = {
 
 <p align="center">
   <a href="https://github.com/AlejandroCisnerosVillegas">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejandroCisnerosVillegas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroCisnerosVillegas&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejandroCisnerosVillegas&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </p>
