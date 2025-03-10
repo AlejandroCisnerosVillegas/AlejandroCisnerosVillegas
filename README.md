@@ -133,7 +133,7 @@ Soy **desarrollador web** con un año y medio de experiencia. Aunque tengo facil
 <p align="center">
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AlejandroCisnerosVillegas&theme=gitdimmed&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AlejandroCisnerosVillegas&theme=onestar&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
   </a>
 </div>
 </p>
