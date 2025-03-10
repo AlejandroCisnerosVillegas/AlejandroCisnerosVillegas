@@ -120,10 +120,10 @@ Soy **desarrollador web** con un año y medio de experiencia. Aunque tengo facil
 <br>
 
 <p align="center">
-<a href="https://github.com/AlejandroCisnerosVillegas">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejandroCisnerosVillegas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejandroCisnerosVillegas&layout=compact&langs_count=8&theme=dark"/>
-</a>
+  <a href="https://github.com/AlejandroCisnerosVillegas">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejandroCisnerosVillegas&show_icons=true&theme=onestar&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejandroCisnerosVillegas&layout=compact&langs_count=8&theme=onestar"/>
+  </a>
 </p>
 
 <p align="center">
