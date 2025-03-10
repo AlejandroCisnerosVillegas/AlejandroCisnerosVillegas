@@ -33,23 +33,23 @@
   </a>
 </p>
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V6dHMxbjlvbjE1MjNod2RoMXM0d3ZkZ203OGlhNzYwenFtcjd6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xHwDPt2kFONpKI8Rfw/giphy.gif" width ="25"><b> Un poco sobre mí</b>
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V6dHMxbjlvbjE1MjNod2RoMXM0d3ZkZ203OGlhNzYwenFtcjd6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xHwDPt2kFONpKI8Rfw/giphy.gif" width ="25"><b> Mis proyectos más recientes</b>
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Sistema de Inventario y Ventas Online</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/AlejandroCisnerosVillegas/Sistema-de-Inventario-y-Ventas-Online" target="_blank"><img src="./Intro-Banner-01.png" width="400" alt="Sistema de Inventario y Ventas Online"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/AlejandroCisnerosVillegas/Sistema-de-Inventario-y-Ventas-Online" target="_blank">
+<img src="https://img.shields.io/badge/CODIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<img src="https://img.shields.io/badge/Vista_Previa-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Optimiza el control de inventario y ventas con nuestra aplicación web. 💻📊 Administra productos, genera facturas y supervisa operaciones clave de forma rápida y sencilla.<strong>✨ Eficiencia, organización y crecimiento en un solo lugar.</strong>
 </div>
                                                                                       
 </td>
