@@ -2,7 +2,7 @@
 <h1 align="center">Un viajero digital ha llegado... <a href="https://www.alejandrovillegas.net/">¡Bienvenid@!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 
-<img src="./Banner.png">
+<img src="./img/banner.png">
 
 [![HTML5](https://img.shields.io/badge/Pagina_oficial-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.alejandrovillegas.net/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-programmer/)
@@ -17,9 +17,11 @@
 const alejandro = {
   profession: "Desarrollador web",
   experience: "18 meses creando soluciones web.",
-  skills: "Puedo trabajar tanto en front-end como en back-end, pero me apasiona más el front-end.",
+  skills:
+    "Puedo trabajar tanto en front-end como en back-end, pero me apasiona más el front-end.",
   focus: "Especializándome en React y diseño UI/UX",
-  passion: "Desarrollando experiencias visuales atractivas y funcionales para los usuarios.",
+  passion:
+    "Desarrollando experiencias visuales atractivas y funcionales para los usuarios.",
   interests: [
     "Innovación en diseño web",
     "Interfaces intuitivas y atractivas",
@@ -35,7 +37,7 @@ const alejandro = {
       <h3 align="center">Aquí encontrarás proyectos, ideas y experimentos nacidos del deseo de crear soluciones eficientes y funcionales.</h3>
     </td>
     <td>
-      <img width="100%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+      <img width="100%" alt="Github" src="./img/description.svg" />
     </td>
   </tr>
 </table>
@@ -57,7 +59,7 @@ const alejandro = {
 <td width="50%">
 <h3 align="center">Sistema de Inventario y Ventas Online</h3>
 <div align="center">
-<a href="https://github.com/AlejandroCisnerosVillegas/Sistema-de-Inventario-y-Ventas-Online" target="_blank"><img src="./Intro-Banner-01.png" width="400" alt="Sistema de Inventario y Ventas Online"></a>
+<a href="https://github.com/AlejandroCisnerosVillegas/Sistema-de-Inventario-y-Ventas-Online" target="_blank"><img src="./img/intro-banner-01.png" width="400" alt="Sistema de Inventario y Ventas Online"></a>
 <p>
 <a href="https://github.com/AlejandroCisnerosVillegas/Sistema-de-Inventario-y-Ventas-Online" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
@@ -75,7 +77,7 @@ const alejandro = {
                <br>
 <h3 align="center">Control de Registro de Pruebas</h3>
 <div align="center">                                       
-<a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank"><img src="./Intro-Banner-02.png" width="400" alt="Control de Registro de Pruebas"></a>
+<a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank"><img src="./img/intro-banner-02.png" width="400" alt="Control de Registro de Pruebas"></a>
 <br>
 <p>
 <a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank">
@@ -96,7 +98,7 @@ const alejandro = {
 <td width="50%">
 <h3 align="center">Plataforma de Gestión de Viajes</h3>
 <div align="center">
-<a href="https://github.com/AlejandroCisnerosVillegas/Plataforma-de-Gestion-de-Viajes" target="_blank"><img src="./Intro-Banner-03.png" width="400" alt="Plataforma de Gestión de Viajes"></a>
+<a href="https://github.com/AlejandroCisnerosVillegas/Plataforma-de-Gestion-de-Viajes" target="_blank"><img src="./img/intro-banner-03.png" width="400" alt="Plataforma de Gestión de Viajes"></a>
 <p>
 <a href="https://github.com/AlejandroCisnerosVillegas/Plataforma-de-Gestion-de-Viajes" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
@@ -113,7 +115,7 @@ const alejandro = {
 <td width="50%">
 <h3 align="center">Portal de ventas online</h3>
 <div align="center">
-<a href="https://github.com/AlejandroCisnerosVillegas/Portal-de-Ventas-Online" target="_blank"><img src="./Intro-Banner-04.png" width="400" alt="Portal de ventas online"></a>
+<a href="https://github.com/AlejandroCisnerosVillegas/Portal-de-Ventas-Online" target="_blank"><img src="./img/intro-banner-04.png.png" width="400" alt="Portal de ventas online"></a>
 <p>
 <a href="https://github.com/AlejandroCisnerosVillegas/Portal-de-Ventas-Online" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
