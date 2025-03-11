@@ -115,7 +115,7 @@ const alejandro = {
 <td width="50%">
 <h3 align="center">Portal de ventas online</h3>
 <div align="center">
-<a href="https://github.com/AlejandroCisnerosVillegas/Portal-de-Ventas-Online" target="_blank"><img src="./img/intro-banner-04.png.png" width="400" alt="Portal de ventas online"></a>
+<a href="https://github.com/AlejandroCisnerosVillegas/Portal-de-Ventas-Online" target="_blank"><img src="./img/intro-banner-04.png" width="400" alt="Portal de ventas online"></a>
 <p>
 <a href="https://github.com/AlejandroCisnerosVillegas/Portal-de-Ventas-Online" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
