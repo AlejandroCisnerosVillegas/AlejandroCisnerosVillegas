@@ -17,11 +17,9 @@
 const alejandro = {
   profession: "Desarrollador web",
   experience: "18 meses creando soluciones web.",
-  skills:
-    "Puedo trabajar tanto en front-end como en back-end, pero me apasiona más el front-end.",
+  skills: "Puedo trabajar tanto en front-end como en back-end, pero me apasiona más el front-end.",
   focus: "Especializándome en React y diseño UI/UX",
-  passion:
-    "Desarrollando experiencias visuales atractivas y funcionales para los usuarios.",
+  passion: "Desarrollando experiencias visuales atractivas y funcionales para los usuarios.",
   interests: [
     "Innovación en diseño web",
     "Interfaces intuitivas y atractivas",
