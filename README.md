@@ -1,10 +1,10 @@
 <div align="center">
-<h1 align="center">Un viajero digital ha llegado... <a href="https://www.alejandrovillegas.net/">¡Bienvenid@!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Un viajero digital ha llegado... <a href="https://www.alejandrovillegas.dev/">¡Bienvenid@!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 
 <img src="./img/banner.png">
 
-[![HTML5](https://img.shields.io/badge/Pagina_oficial-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.alejandrovillegas.net/)
+[![HTML5](https://img.shields.io/badge/Pagina_oficial-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.alejandrovillegas.dev/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-programmer/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlejandroCisnerosVillegas)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@alejandrovillegas.net)
@@ -60,7 +60,7 @@ const alejandro = {
 <a href="https://github.com/AlejandroCisnerosVillegas/Sistema-de-Inventario-y-Ventas-Online" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://alejandrovillegas.net/projects/project-09/index.php" target="_blank">
+<a href="https://www.alejandrovillegas.dev/projects/project-09/index.php" target="_blank">
 <img src="https://img.shields.io/badge/-Vista_Previa-blue?style=for-the-badge&color=0056b3">
 </a>
 </p>
@@ -79,7 +79,7 @@ const alejandro = {
 <a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://alejandrovillegas.net/projects/project-08/index.php" target="_blank">
+<a href="https://www.alejandrovillegas.dev/projects/project-08/index.php" target="_blank">
 <img src="https://img.shields.io/badge/-Vista_Previa-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
@@ -99,7 +99,7 @@ const alejandro = {
 <a href="https://github.com/AlejandroCisnerosVillegas/Plataforma-de-Gestion-de-Viajes" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://alejandrovillegas.net/projects/project-07/index.php" target="_blank">
+<a href="https://www.alejandrovillegas.dev/projects/project-07/index.php" target="_blank">
 <img src="https://img.shields.io/badge/-Vista_Previa-purple?style=for-the-badge&color=8A2BE2">
 </a>
 </p>
@@ -116,7 +116,7 @@ const alejandro = {
 <a href="https://github.com/AlejandroCisnerosVillegas/Portal-de-Ventas-Online" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://alejandrovillegas.net/projects/project-04/index.php" target="_blank">
+<a href="https://www.alejandrovillegas.dev/projects/project-04/index.php" target="_blank">
 <img src="https://img.shields.io/badge/-Vista_Previa-blue?style=for-the-badge&color=00AEEF">
 </a>
 </p>
