@@ -7,7 +7,7 @@
 [![HTML5](https://img.shields.io/badge/Pagina_oficial-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.alejandrovillegas.dev/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-programmer/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlejandroCisnerosVillegas)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@alejandrovillegas.net)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@alejandrovillegas.dev)
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VwMm1xOWw1ZDB0OGk3dm1tMmxxcTZ3a2ZmcWNqbGljaWN0NXgzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ye7UYS5NTl6arPbDw7/giphy.gif" width ="25"><b> Un poco sobre mí</b>
 
