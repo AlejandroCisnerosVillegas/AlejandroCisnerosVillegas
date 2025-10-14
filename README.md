@@ -4,8 +4,8 @@
 
 <img src="./img/banner.png">
 
-[![HTML5](https://img.shields.io/badge/Pagina_oficial-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.alejandrovillegas.dev/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-programmer/)
+[![Page](https://img.shields.io/badge/Pagina_Oficial-%2317541F?style=flat-square&logo=anthropic&logoColor=%23ece9e9)](https://www.alejandrovillegas.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=opsgenie&logoColor=%23ece9e9)](https://www.linkedin.com/in/alejandro-programmer/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlejandroCisnerosVillegas)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@alejandrovillegas.dev)
 
@@ -13,17 +13,18 @@
 
 ```javascript
 const alejandro = {
-  profession: "Desarrollador web",
-  experience: "18 meses creando soluciones web.",
-  skills: "Puedo trabajar tanto en front-end como en back-end, pero me apasiona más el front-end.",
-  focus: "Especializándome en React y diseño UI/UX",
-  passion: "Desarrollando experiencias visuales atractivas y funcionales para los usuarios.",
+  profession: "Desarrollador Web",
+  experience: "Más de 18 meses creando soluciones digitales.",
+  skills: "Desarrollo front-end y back-end centrado en experiencias web.",
+  focus: "Resolver desafíos actuales a través del desarrollo web.",
+  passion:
+    "Transformar ideas en interfaces funcionales, atractivas y centradas en el usuario.",
   interests: [
-    "Innovación en diseño web",
-    "Interfaces intuitivas y atractivas",
-    "Optimización de la experiencia del usuario",
+    "Innovación en desarrollo web",
+    "Diseño de interfaces intuitivas",
+    "Experiencias de usuario más naturales y funcionales.",
   ],
-  learning: "Dominando React y explorando enfoques modernos en diseño web.",
+  learning: "Perfeccionando React y explorando nuevas tendencias en diseño.",
 };
 ```
 
