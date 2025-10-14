@@ -4,10 +4,9 @@
 
 <img src="./img/banner.png">
 
-[![Page](https://img.shields.io/badge/Pagina_Oficial-%2317541F?style=flat-square&logo=anthropic&logoColor=%23ece9e9)](https://www.alejandrovillegas.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=opsgenie&logoColor=%23ece9e9)](https://www.linkedin.com/in/alejandro-programmer/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlejandroCisnerosVillegas)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@alejandrovillegas.dev)
+[![Page](https://img.shields.io/badge/Pagina_Oficial-%2317541F?style=for-the-badge&logo=anthropic&logoColor=%23ece9e9&logoSize=auto)](https://www.alejandrovillegas.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=opsgenie&logoColor=%23ece9e9&logoSize=auto)](https://www.linkedin.com/in/alejandro-programmer/)
+[![Mail](https://img.shields.io/badge/EMail-%23004788?style=for-the-badge&logo=maildotru&logoColor=%23ece9e9&logoSize=auto)](mailto:contacto@alejandrovillegas.dev)
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VwMm1xOWw1ZDB0OGk3dm1tMmxxcTZ3a2ZmcWNqbGljaWN0NXgzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ye7UYS5NTl6arPbDw7/giphy.gif" width ="25"><b> Un poco sobre mí</b>
 
