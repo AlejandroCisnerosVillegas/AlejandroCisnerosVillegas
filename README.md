@@ -14,16 +14,16 @@
 const alejandro = {
   profession: "Desarrollador Web",
   experience: "Más de 18 meses creando soluciones digitales.",
-  skills: "Desarrollo front-end y back-end centrado en experiencias web.",
-  focus: "Resolver desafíos actuales a través del desarrollo web.",
-  passion:
-    "Transformar ideas en interfaces funcionales, atractivas y centradas en el usuario.",
+  skills: "HTML, CSS, JavaScript, PHP, MySQL, React, Vite.js, Node.js y NPM.",
+  focus: "Desarrollar aplicaciones web prácticas y funcionales.",
+  passion: "Transformar conceptos en interfaces visuales atractivas.",
   interests: [
     "Innovación en desarrollo web",
-    "Diseño de interfaces intuitivas",
-    "Experiencias de usuario más naturales y funcionales.",
+    "Utilizar herramientas y recursos web que agilicen el desarrollo de proyectos.",
+    "Aplicar técnicas que simplifiquen la construcción de componentes.",
   ],
-  learning: "Perfeccionando React y explorando nuevas tendencias en diseño.",
+  learning:
+    "Perfeccionando React y explorando nuevas tendencias en diseño web.",
 };
 ```
 
