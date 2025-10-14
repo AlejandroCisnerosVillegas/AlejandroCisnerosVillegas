@@ -12,7 +12,7 @@
 
 ```javascript
 const alejandro = {
-  profession: "Desarrollador Web",
+  profession: "Ingeniero en Sistemas Computacionales",
   experience: "Más de 18 meses creando soluciones digitales.",
   skills: "HTML, CSS, JavaScript, PHP, MySQL, React, Vite.js, Node.js y NPM.",
   focus: "Desarrollar aplicaciones web prácticas y funcionales.",
