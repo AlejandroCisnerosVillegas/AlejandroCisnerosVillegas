@@ -69,19 +69,20 @@ const alejandro = {
       </p>
     </div>                                                                                     
   </td>
-
   <td width="50%">
-  <br>
-  <h3 align="center">Control de Registro de Pruebas</h3>
-  <div align="center">                                       
-  <a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank"><img src="./img/intro-banner-02.png" width="400" alt="Control de Registro de Pruebas"></a>
-  <br>
-  <p>
-  <a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.alejandrovillegas.dev/projects/project-08/index.php" target="_blank"><img src="https://img.shields.io/badge/Vista_Previa-green?style=for-the-badge&logo=circleci&logoColor=white&logoSize=auto"></a>
-  </p>
-  <p>Facilita el registro, consulta y administración de pruebas COVID-19 en una sola plataforma. 📊✅ Pacientes y administradores pueden acceder a informes, asignar tareas y recibir notificaciones en tiempo real. <strong>✨ Organización, rapidez y transparencia en la gestión de pruebas diagnósticas.</strong></p>
-  </div> 
+    <br>
+    <h3 align="center">Control de Registro de Pruebas</h3>
+    <div align="center">                                       
+      <a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank"><img src="./img/intro-banner-02.png" width="400" alt="Control de Registro de Pruebas"></a>
+      <br>
+      <p>
+        <a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://www.alejandrovillegas.dev/projects/project-08/index.php" target="_blank"><img src="https://img.shields.io/badge/Vista_Previa-green?style=for-the-badge&logo=circleci&logoColor=white&logoSize=auto"></a>
+      </p>
+      <p>
+        Facilita el registro, consulta y administración de pruebas COVID-19 en una sola plataforma. 📊✅ Pacientes y administradores pueden acceder a informes, asignar tareas y recibir notificaciones en tiempo real. <strong>✨ Organización, rapidez y transparencia en la gestión de pruebas diagnósticas.</strong>
+      </p>
+    </div> 
   </td>                                                            
 </table>
 
