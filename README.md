@@ -64,7 +64,7 @@ const alejandro = {
         <a href="https://www.alejandrovillegas.dev/projects/project-10/index.html" target="_blank"><img src="https://img.shields.io/badge/Vista_Previa-%2386BE43?style=for-the-badge&logo=circleci&logoColor=white&logoSize=auto"></a>
       </p>
       <p>
-        Explora y consulta información detallada de los primeros 1000 Pokémon con nuestra aplicación web. ⚡🖥️ Disfruta de una experiencia fluida, moderna y totalmente responsiva, diseñada para facilitar la navegación y el descubrimiento de datos de manera rápida y sencilla.
+        Explora información de los primeros 1000 Pokémon con esta aplicación web. ⚡🖥️ Ofrece una experiencia fluida, moderna y responsiva, diseñada para facilitar la navegación y el descubrimiento de datos de manera rápida y sencilla.
       </p>
     </div>                                                                                     
   </td>
