@@ -54,6 +54,7 @@ const alejandro = {
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V6dHMxbjlvbjE1MjNod2RoMXM0d3ZkZ203OGlhNzYwenFtcjd6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xHwDPt2kFONpKI8Rfw/giphy.gif" width ="25"><b> Mis proyectos más recientes</b>
 
+<table>
 <td width="50%">
 <h3 align="center">Sistema de Inventario y Ventas Online</h3>
 <div align="center">
@@ -77,7 +78,8 @@ const alejandro = {
 <a href="https://www.alejandrovillegas.dev/projects/project-08/index.php" target="_blank"><img src="https://img.shields.io/badge/Vista_Previa-green?style=for-the-badge&logo=circleci&logoColor=white&logoSize=auto"></a>
 </p>
 <p>Facilita el registro, consulta y administración de pruebas COVID-19 en una sola plataforma. 📊✅ Pacientes y administradores pueden acceder a informes, asignar tareas y recibir notificaciones en tiempo real. <strong>✨ Organización, rapidez y transparencia en la gestión de pruebas diagnósticas.</strong></p>
-</div>
+</div>                                                             
+</table>
 
 <br>
 
