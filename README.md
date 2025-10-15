@@ -6,7 +6,7 @@
 
 <img src="./img/banner.png" alt="Banner" style="display:block; margin:auto;">
 
-<p align="left">
+<p>
   <a href="https://www.alejandrovillegas.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Pagina_Oficial-%2317541F?style=for-the-badge&logo=anthropic&logoColor=%23ece9e9&logoSize=auto" />
   </a>
