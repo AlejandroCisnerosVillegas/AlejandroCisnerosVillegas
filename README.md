@@ -7,15 +7,9 @@
 <img src="./img/banner.png" alt="Banner" style="display:block; margin:auto;">
 
 <p>
-  <a href="https://www.alejandrovillegas.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Pagina_Oficial-%2317541F?style=for-the-badge&logo=anthropic&logoColor=%23ece9e9&logoSize=auto">
-  </a>
-  <a href="https://www.linkedin.com/in/alejandro-programmer/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=opsgenie&logoColor=%23ece9e9&logoSize=auto">
-  </a>
-  <a href="mailto:contacto@alejandrovillegas.dev" target="_blank">
-    <img src="https://img.shields.io/badge/EMail-%23BA0C2F?style=for-the-badge&logo=maildotru&logoColor=%23ece9e9&logoSize=auto">
-  </a>
+<a href="https://www.alejandrovillegas.dev/" target="_blank"><img src="https://img.shields.io/badge/Pagina_Oficial-%2317541F?style=for-the-badge&logo=anthropic&logoColor=%23ece9e9&logoSize=auto"></a>
+<a href="https://www.linkedin.com/in/alejandro-programmer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=opsgenie&logoColor=%23ece9e9&logoSize=auto"></a>
+<a href="mailto:contacto@alejandrovillegas.dev" target="_blank"><img src="https://img.shields.io/badge/EMail-%23BA0C2F?style=for-the-badge&logo=maildotru&logoColor=%23ece9e9&logoSize=auto"></a>
 </p>
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VwMm1xOWw1ZDB0OGk3dm1tMmxxcTZ3a2ZmcWNqbGljaWN0NXgzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ye7UYS5NTl6arPbDw7/giphy.gif" width="25"><b> Un poco sobre mí</b>
@@ -61,35 +55,52 @@ const alejandro = {
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V6dHMxbjlvbjE1MjNod2RoMXM0d3ZkZ203OGlhNzYwenFtcjd6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xHwDPt2kFONpKI8Rfw/giphy.gif" width ="25"><b> Mis proyectos más recientes</b>
 
 <table>
-<tr>
+  <tr>
+    <!-- Primer proyecto -->
+    <td width="50%">
+      <h3 align="center">Sistema de Inventario y Ventas Online</h3>
+      <div align="center">
+        <a href="https://github.com/AlejandroCisnerosVillegas/Sistema-de-Inventario-y-Ventas-Online" target="_blank">
+          <img src="./img/intro-banner-01.png" width="400" alt="Sistema de Inventario y Ventas Online">
+        </a>
+        <p>
+          <a href="https://github.com/AlejandroCisnerosVillegas/Sistema-de-Inventario-y-Ventas-Online" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+          <a href="https://www.alejandrovillegas.dev/projects/project-09/index.php" target="_blank">
+            <img src="https://img.shields.io/badge/Vista_Previa-blue?style=for-the-badge&logo=circleci&logoColor=white&logoSize=auto">
+          </a>
+        </p>
+        <p>
+          Optimiza el control de inventario y ventas con nuestra aplicación web. 💻📊 Administra productos, genera facturas y supervisa operaciones clave de forma rápida y sencilla. 
+          <strong>✨ Eficiencia, organización y crecimiento en un solo lugar.</strong>
+        </p>
+      </div>
+    </td>
 
-<td width="50%">
-<h3 align="center">Sistema de Inventario y Ventas Online</h3>
-<div align="center">
-<a href="https://github.com/AlejandroCisnerosVillegas/Sistema-de-Inventario-y-Ventas-Online" target="_blank"><img src="./img/intro-banner-01.png" width="400" alt="Sistema de Inventario y Ventas Online"></a>
-<p>
-<a href="https://github.com/AlejandroCisnerosVillegas/Sistema-de-Inventario-y-Ventas-Online" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.alejandrovillegas.dev/projects/project-09/index.php" target="_blank"><img src="https://img.shields.io/badge/Vista_Previa-blue?style=for-the-badge&logo=circleci&logoColor=white&logoSize=auto"></a>
-</p>
-</p>Optimiza el control de inventario y ventas con nuestra aplicación web. 💻📊 Administra productos, genera facturas y supervisa operaciones clave de forma rápida y sencilla. <strong>✨ Eficiencia, organización y crecimiento en un solo lugar.</strong></p>
-</div>                                                                                     
-</td>
+    <td width="50%">
+      <h3 align="center">Control de Registro de Pruebas</h3>
+      <div align="center">
+        <a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank">
+          <img src="./img/intro-banner-02.png" width="400" alt="Control de Registro de Pruebas">
+        </a>
+        <p>
+          <a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+          <a href="https://www.alejandrovillegas.dev/projects/project-08/index.php" target="_blank">
+            <img src="https://img.shields.io/badge/Vista_Previa-green?style=for-the-badge&logo=circleci&logoColor=white&logoSize=auto">
+          </a>
+        </p>
+        <p>
+          Facilita el registro, consulta y administración de pruebas COVID-19 en una sola plataforma. 📊✅ Pacientes y administradores pueden acceder a informes, asignar tareas y recibir notificaciones en tiempo real.
+          <strong>✨ Organización, rapidez y transparencia en la gestión de pruebas diagnósticas.</strong>
+        </p>
+      </div>
+    </td>
 
-<td width="50%">
-<br>
-<h3 align="center">Control de Registro de Pruebas</h3>
-<div align="center">                                       
-<a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank"><img src="./img/intro-banner-02.png" width="400" alt="Control de Registro de Pruebas"></a>
-<br>
-<p>
-<a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.alejandrovillegas.dev/projects/project-08/index.php" target="_blank"><img src="https://img.shields.io/badge/Vista_Previa-green?style=for-the-badge&logo=circleci&logoColor=white&logoSize=auto"></a>
-</p>
-<p>Facilita el registro, consulta y administración de pruebas COVID-19 en una sola plataforma. 📊✅ Pacientes y administradores pueden acceder a informes, asignar tareas y recibir notificaciones en tiempo real. <strong>✨ Organización, rapidez y transparencia en la gestión de pruebas diagnósticas.</strong></p>
-</div>                                                             
-</table>                                                                                 
-</div>
-
+  </tr>
+</table>
 <br>
 
 <table>
