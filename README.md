@@ -70,6 +70,7 @@ const alejandro = {
     </div>                                                                                     
   </td>
   <td width="50%">
+    <br>
     <h3 align="center">Control de Registro de Pruebas</h3>
     <div align="center">                                       
       <a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank"><img src="./img/intro-banner-02.png" width="400" alt="Control de Registro de Pruebas"></a>
@@ -88,37 +89,35 @@ const alejandro = {
 <br>
 
 <table>
-<td width="50%">
-<h3 align="center">Plataforma de Gestión de Viajes</h3>
-<div align="center">
-<a href="https://github.com/AlejandroCisnerosVillegas/Plataforma-de-Gestion-de-Viajes" target="_blank"><img src="./img/intro-banner-03.png" width="400" alt="Plataforma de Gestión de Viajes"></a>
-<p>
-<a href="https://github.com/AlejandroCisnerosVillegas/Plataforma-de-Gestion-de-Viajes" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://www.alejandrovillegas.dev/projects/project-07/index.php" target="_blank">
-<img src="https://img.shields.io/badge/-Vista_Previa-purple?style=for-the-badge&color=8A2BE2">
-</a>
-</p>
-<p>Explora, planifica y reserva tu viaje ideal con facilidad. 🏖️📅 Usuarios y administradores disfrutan de herramientas avanzadas para una gestión eficiente y sin complicaciones. <strong>✨ Tu viaje, tu experiencia, en un solo lugar.</strong></p>
-</div>                                                                                   
-</td>
+  <td width="50%">
+    <h3 align="center">Plataforma de Gestión de Viajes</h3>
+    <div align="center">
+      <a href="https://github.com/AlejandroCisnerosVillegas/Plataforma-de-Gestion-de-Viajes" target="_blank"><img src="./img/intro-banner-03.png" width="400" alt="Plataforma de Gestión de Viajes"></a>
+      <p>
+        <a href="https://github.com/AlejandroCisnerosVillegas/Plataforma-de-Gestion-de-Viajes" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://www.alejandrovillegas.dev/projects/project-07/index.php" target="_blank"><img src="https://img.shields.io/badge/Vista_Previa-purple?style=for-the-badge&logo=circleci&logoColor=white&logoSize=auto"></a>
+      </p>
+      <p>
+        Explora, planifica y reserva tu viaje ideal con facilidad. 🏖️📅 Usuarios y administradores disfrutan de herramientas avanzadas para una gestión eficiente y sin complicaciones. <strong>✨ Tu viaje, tu experiencia, en un solo lugar.</strong>
+      </p>
+    </div>                                                                                   
+  </td>
 
-<td width="50%">
-<h3 align="center">Portal de ventas online</h3>
-<div align="center">
-<a href="https://github.com/AlejandroCisnerosVillegas/Portal-de-Ventas-Online" target="_blank"><img src="./img/intro-banner-04.png" width="400" alt="Portal de ventas online"></a>
-<p>
-<a href="https://github.com/AlejandroCisnerosVillegas/Portal-de-Ventas-Online" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://www.alejandrovillegas.dev/projects/project-04/index.php" target="_blank">
-<img src="https://img.shields.io/badge/-Vista_Previa-blue?style=for-the-badge&color=00AEEF">
-</a>
-</p>
-<p>Descubre una amplia gama de productos electrónicos de calidad, desde audífonos hasta pantallas para PC. 🎧🖥️ Disfruta de una experiencia de compra rápida, segura e intuitiva. <strong>✨ Compra fácil y segura, todo en un solo lugar.</strong></p>
-</div>                                                                                   
-</td>  
+  <td width="50%">
+  <h3 align="center">Portal de ventas online</h3>
+  <div align="center">
+  <a href="https://github.com/AlejandroCisnerosVillegas/Portal-de-Ventas-Online" target="_blank"><img src="./img/intro-banner-04.png" width="400" alt="Portal de ventas online"></a>
+  <p>
+  <a href="https://github.com/AlejandroCisnerosVillegas/Portal-de-Ventas-Online" target="_blank">
+  <img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.alejandrovillegas.dev/projects/project-04/index.php" target="_blank">
+  <img src="https://img.shields.io/badge/-Vista_Previa-blue?style=for-the-badge&color=00AEEF">
+  </a>
+  </p>
+  <p>Descubre una amplia gama de productos electrónicos de calidad, desde audífonos hasta pantallas para PC. 🎧🖥️ Disfruta de una experiencia de compra rápida, segura e intuitiva. <strong>✨ Compra fácil y segura, todo en un solo lugar.</strong></p>
+  </div>                                                                                   
+  </td>  
 </table>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Actividad en GitHub </b>
