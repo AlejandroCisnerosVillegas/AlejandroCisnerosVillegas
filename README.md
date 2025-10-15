@@ -69,7 +69,7 @@ const alejandro = {
     </div>                                                                                     
   </td>
   <td width="50%">
-    <h3 align="center">Sistema de Inventario y Ventas Online</h3>
+    <h3 align="center">Sistema de Inventario y Ventas</h3>
     <div align="center">
       <a href="https://github.com/AlejandroCisnerosVillegas/Sistema-de-Inventario-y-Ventas-Online" target="_blank"><img src="./img/intro-banner-01.png" width="400" alt="Sistema de Inventario y Ventas Online"></a>
       <p>
