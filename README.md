@@ -30,7 +30,7 @@ const alejandro = {
 <table>
   <tr>
     <td>
-      <h3 align="center">Aquí encontrarás proyectos, ideas y experimentos nacidos del deseo de crear soluciones eficientes y funcionales.</h3>
+      <h3 align="center">Aquí encontrarás proyectos, ideas y experimentos nacidos del deseo de crear soluciones prácticas y funcionales.</h3>
     </td>
     <td>
       <img width="100%" alt="Github" src="./img/description.svg" />
@@ -44,7 +44,7 @@ const alejandro = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,sqlite,react,vite,nodejs,npm,postman,bootstrap,sass,less,styledcomponents,jquery,redux,git,github,vscode,powershell,windows" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,vite,nodejs,npm,postman,bootstrap,sass,less,jquery,redux,git,vscode" />
   </a>
 </p>
 
