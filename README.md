@@ -8,13 +8,13 @@
 
 <p align="left">
   <a href="https://www.alejandrovillegas.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Pagina_Oficial-%2317541F?style=for-the-badge&logo=anthropic&logoColor=%23ece9e9&logoSize=auto"/>
+    <img src="https://img.shields.io/badge/Pagina_Oficial-%2317541F?style=for-the-badge&logo=anthropic&logoColor=%23ece9e9&logoSize=auto" />
   </a>
   <a href="https://www.linkedin.com/in/alejandro-programmer/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=opsgenie&logoColor=%23ece9e9&logoSize=auto"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=opsgenie&logoColor=%23ece9e9&logoSize=auto" />
   </a>
   <a href="mailto:contacto@alejandrovillegas.dev" target="_blank">
-    <img src="https://img.shields.io/badge/EMail-%23BA0C2F?style=for-the-badge&logo=maildotru&logoColor=%23ece9e9&logoSize=auto"/>
+    <img src="https://img.shields.io/badge/EMail-%23BA0C2F?style=for-the-badge&logo=maildotru&logoColor=%23ece9e9&logoSize=auto" />
   </a>
 </p>
 
