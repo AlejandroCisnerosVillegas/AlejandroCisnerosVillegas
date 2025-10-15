@@ -78,7 +78,7 @@ const alejandro = {
       </p>
       <p>
         Optimiza el control de inventario y ventas con nuestra aplicación web. 💻📊 Administra productos, genera facturas y supervisa operaciones clave de forma rápida y sencilla. 
-        <strong>✨ Eficiencia, organización y crecimiento en un solo lugar.</strong>
+        <strong>✨ Eficiencia y organización en un solo lugar.</strong>
       </p>
     </div>                                                                                     
   </td>                                                      
@@ -94,7 +94,7 @@ const alejandro = {
       <br>
       <p>
         <a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href="https://www.alejandrovillegas.dev/projects/project-08/index.php" target="_blank"><img src="https://img.shields.io/badge/Vista_Previa-green?style=for-the-badge&logo=circleci&logoColor=white&logoSize=auto"></a>
+        <a href="https://www.alejandrovillegas.dev/projects/project-08/index.php" target="_blank"><img src="https://img.shields.io/badge/Vista_Previa-%23005F0F?style=for-the-badge&logo=circleci&logoColor=white&logoSize=auto"></a>
       </p>
       <p>
         Facilita el registro, consulta y administración de pruebas COVID-19 en una sola plataforma. 📊✅ Pacientes y administradores pueden acceder a informes, asignar tareas y recibir notificaciones en tiempo real.
