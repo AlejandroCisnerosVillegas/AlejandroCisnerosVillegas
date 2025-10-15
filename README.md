@@ -55,36 +55,39 @@ const alejandro = {
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V6dHMxbjlvbjE1MjNod2RoMXM0d3ZkZ203OGlhNzYwenFtcjd6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xHwDPt2kFONpKI8Rfw/giphy.gif" width ="25"><b> Mis proyectos más recientes</b>
 
 <table>
-<td width="50%">
-<h3 align="center">Sistema de Inventario y Ventas Online</h3>
-<div align="center">
-<a href="https://github.com/AlejandroCisnerosVillegas/Sistema-de-Inventario-y-Ventas-Online" target="_blank"><img src="./img/intro-banner-01.png" width="400" alt="Sistema de Inventario y Ventas Online"></a>
-<p>
-<a href="https://github.com/AlejandroCisnerosVillegas/Sistema-de-Inventario-y-Ventas-Online" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.alejandrovillegas.dev/projects/project-09/index.php" target="_blank"><img src="https://img.shields.io/badge/Vista_Previa-blue?style=for-the-badge&logo=circleci&logoColor=white&logoSize=auto"></a>
-</p>
-</p>Optimiza el control de inventario y ventas con nuestra aplicación web. 💻📊 Administra productos, genera facturas y supervisa operaciones clave de forma rápida y sencilla. <strong>✨ Eficiencia, organización y crecimiento en un solo lugar.</strong></p>
-</div>                                                                                     
-</td>
+  <td width="50%">
+    <h3 align="center">Sistema de Inventario y Ventas Online</h3>
+    <div align="center">
+      <a href="https://github.com/AlejandroCisnerosVillegas/Sistema-de-Inventario-y-Ventas-Online" target="_blank"><img src="./img/intro-banner-01.png" width="400" alt="Sistema de Inventario y Ventas Online"></a>
+      <p>
+        <a href="https://github.com/AlejandroCisnerosVillegas/Sistema-de-Inventario-y-Ventas-Online" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://www.alejandrovillegas.dev/projects/project-09/index.php" target="_blank"><img src="https://img.shields.io/badge/Vista_Previa-blue?style=for-the-badge&logo=circleci&logoColor=white&logoSize=auto"></a>
+      </p>
+      <p>
+        Optimiza el control de inventario y ventas con nuestra aplicación web. 💻📊 Administra productos, genera facturas y supervisa operaciones clave de forma rápida y sencilla. 
+        <strong>✨ Eficiencia, organización y crecimiento en un solo lugar.</strong>
+      </p>
+    </div>                                                                                     
+  </td>
 
-<td width="50%">
-<br>
-<h3 align="center">Control de Registro de Pruebas</h3>
-<div align="center">                                       
-<a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank"><img src="./img/intro-banner-02.png" width="400" alt="Control de Registro de Pruebas"></a>
-<br>
-<p>
-<a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.alejandrovillegas.dev/projects/project-08/index.php" target="_blank"><img src="https://img.shields.io/badge/Vista_Previa-green?style=for-the-badge&logo=circleci&logoColor=white&logoSize=auto"></a>
-</p>
-<p>Facilita el registro, consulta y administración de pruebas COVID-19 en una sola plataforma. 📊✅ Pacientes y administradores pueden acceder a informes, asignar tareas y recibir notificaciones en tiempo real. <strong>✨ Organización, rapidez y transparencia en la gestión de pruebas diagnósticas.</strong></p>
-</div>                                                             
+  <td width="50%">
+  <br>
+  <h3 align="center">Control de Registro de Pruebas</h3>
+  <div align="center">                                       
+  <a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank"><img src="./img/intro-banner-02.png" width="400" alt="Control de Registro de Pruebas"></a>
+  <br>
+  <p>
+  <a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.alejandrovillegas.dev/projects/project-08/index.php" target="_blank"><img src="https://img.shields.io/badge/Vista_Previa-green?style=for-the-badge&logo=circleci&logoColor=white&logoSize=auto"></a>
+  </p>
+  <p>Facilita el registro, consulta y administración de pruebas COVID-19 en una sola plataforma. 📊✅ Pacientes y administradores pueden acceder a informes, asignar tareas y recibir notificaciones en tiempo real. <strong>✨ Organización, rapidez y transparencia en la gestión de pruebas diagnósticas.</strong></p>
+  </div> 
+  </td>                                                            
 </table>
 
 <br>
 
 <table>
-<tr>
 <td width="50%">
 <h3 align="center">Plataforma de Gestión de Viajes</h3>
 <div align="center">
@@ -98,8 +101,7 @@ const alejandro = {
 </a>
 </p>
 <p>Explora, planifica y reserva tu viaje ideal con facilidad. 🏖️📅 Usuarios y administradores disfrutan de herramientas avanzadas para una gestión eficiente y sin complicaciones. <strong>✨ Tu viaje, tu experiencia, en un solo lugar.</strong></p>
-</div>
-                                                                                      
+</div>                                                                                   
 </td>
 
 <td width="50%">
@@ -115,11 +117,9 @@ const alejandro = {
 </a>
 </p>
 <p>Descubre una amplia gama de productos electrónicos de calidad, desde audífonos hasta pantallas para PC. 🎧🖥️ Disfruta de una experiencia de compra rápida, segura e intuitiva. <strong>✨ Compra fácil y segura, todo en un solo lugar.</strong></p>
-</div>
-                                                                                      
+</div>                                                                                   
 </td>  
-</table>                                                                                 
-</div>
+</table>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Actividad en GitHub </b>
 
