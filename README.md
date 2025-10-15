@@ -1,14 +1,24 @@
-<div align="center">
-<h1 align="center">Un viajero digital ha llegado... <a href="https://www.alejandrovillegas.dev/">¡Bienvenid@!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-</div>
+<h1 align="center">
+  Un viajero digital ha llegado...
+  <a href="https://www.alejandrovillegas.dev/">¡Bienvenid@!</a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-<img src="./img/banner.png">
+<img src="./img/banner.png" alt="Banner" style="display:block; margin:auto;">
 
-[![Page](https://img.shields.io/badge/Pagina_Oficial-%2317541F?style=for-the-badge&logo=anthropic&logoColor=%23ece9e9&logoSize=auto)](https://www.alejandrovillegas.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=opsgenie&logoColor=%23ece9e9&logoSize=auto)](https://www.linkedin.com/in/alejandro-programmer/)
-[![Mail](https://img.shields.io/badge/EMail-%23BA0C2F?style=for-the-badge&logo=maildotru&logoColor=%23ece9e9&logoSize=auto)](mailto:contacto@alejandrovillegas.dev)
+<p align="center">
+  <a href="https://www.alejandrovillegas.dev/">
+    <img src="https://img.shields.io/badge/Pagina_Oficial-%2317541F?style=for-the-badge&logo=anthropic&logoColor=%23ece9e9&logoSize=auto">
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/alejandro-programmer/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=opsgenie&logoColor=%23ece9e9&logoSize=auto">
+  </a>&nbsp;
+  <a href="mailto:contacto@alejandrovillegas.dev">
+    <img src="https://img.shields.io/badge/EMail-%23BA0C2F?style=for-the-badge&logo=maildotru&logoColor=%23ece9e9&logoSize=auto">
+  </a>
+</p>
 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VwMm1xOWw1ZDB0OGk3dm1tMmxxcTZ3a2ZmcWNqbGljaWN0NXgzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ye7UYS5NTl6arPbDw7/giphy.gif" width ="25"><b> Un poco sobre mí</b>
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VwMm1xOWw1ZDB0OGk3dm1tMmxxcTZ3a2ZmcWNqbGljaWN0NXgzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ye7UYS5NTl6arPbDw7/giphy.gif" width="25"><b> Un poco sobre mí</b>
 
 ```javascript
 const alejandro = {
@@ -29,11 +39,11 @@ const alejandro = {
 
 <table>
   <tr>
-    <td>
-      <h3 align="center">Aquí encontrarás proyectos, ideas y experimentos nacidos del deseo de crear soluciones prácticas y funcionales.</h3>
+    <td align="center">
+      <h3>Aquí encontrarás proyectos, ideas y experimentos nacidos del deseo de crear soluciones prácticas y funcionales.</h3>
     </td>
-    <td>
-      <img width="100%" alt="Github" src="./img/description.svg" />
+    <td align="center">
+      <img src="./img/description.svg" alt="Github" style="display:block; margin:auto; width:100%;">
     </td>
   </tr>
 </table>
