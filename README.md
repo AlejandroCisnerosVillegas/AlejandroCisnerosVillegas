@@ -99,7 +99,7 @@ const alejandro = {
         <a href="https://www.alejandrovillegas.dev/projects/project-08/index.php" target="_blank"><img src="https://img.shields.io/badge/Vista_Previa-green?style=for-the-badge&logo=circleci&logoColor=white&logoSize=auto"></a>
       </p>
       <p>
-        Facilita el registro, consulta y administración de pruebas COVID-19 en una sola plataforma. 📊✅ Pacientes y administradores pueden acceder a informes, asignar tareas y recibir notificaciones en tiempo real. <strong>✨ Organización, rapidez y transparencia en la gestión de pruebas diagnósticas.</strong>
+        Facilita el registro, consulta y administración de pruebas COVID-19 en una sola plataforma. 📊✅ Pacientes y administradores pueden acceder a informes, asignar tareas y recibir notificaciones en tiempo real.
       </p>
     </div> 
   </td>      
