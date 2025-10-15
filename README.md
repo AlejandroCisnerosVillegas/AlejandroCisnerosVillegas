@@ -70,7 +70,6 @@ const alejandro = {
     </div>                                                                                     
   </td>
   <td width="50%">
-    <br>
     <h3 align="center">Control de Registro de Pruebas</h3>
     <div align="center">                                       
       <a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank"><img src="./img/intro-banner-02.png" width="400" alt="Control de Registro de Pruebas"></a>
