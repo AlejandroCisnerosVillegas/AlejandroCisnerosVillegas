@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<img src="./img/banner.png" alt="Banner" style="display:block; margin:auto;">
+<img src="./img/banner.webp" alt="Banner" style="display:block; margin:auto;">
 
 <p>
   <a href="https://www.alejandrovillegas.dev/" target="_blank"><img src="https://img.shields.io/badge/Pagina_Oficial-%2317541F?style=for-the-badge&logo=anthropic&logoColor=%23ece9e9&logoSize=auto"></a>
@@ -37,7 +37,7 @@ const alejandro = {
       <h3>Aquí encontrarás proyectos, ideas y experimentos nacidos del deseo de crear soluciones prácticas y funcionales.</h3>
     </td>
     <td align="center">
-      <img src="./img/description.svg" alt="Github" style="display:block; margin:auto; width:100%;">
+      <img src="./img/profile.svg" alt="Github" style="display:block; margin:auto; width:100%;">
     </td>
   </tr>
 </table>
@@ -58,7 +58,7 @@ const alejandro = {
   <td width="50%">
     <h3 align="center">PokéApi | Pokédex</h3>
     <div align="center">
-      <a href="https://github.com/AlejandroCisnerosVillegas/Pokedex-react" target="_blank"><img src="./img/intro-banner-04.png" width="400" alt="Sistema de Inventario y Ventas Online"></a>
+      <a href="https://github.com/AlejandroCisnerosVillegas/Pokedex-react" target="_blank"><img src="./img/intro-banner-04.webp" width="400" alt="Sistema de Inventario y Ventas Online"></a>
       <p>
         <a href="https://github.com/AlejandroCisnerosVillegas/Pokedex-react" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
         <a href="https://www.alejandrovillegas.dev/projects/project-10/index.html" target="_blank"><img src="https://img.shields.io/badge/Vista_Previa-%2386BE43?style=for-the-badge&logo=circleci&logoColor=white&logoSize=auto"></a>
@@ -71,7 +71,7 @@ const alejandro = {
   <td width="50%">
     <h3 align="center">Sistema de Inventario y Ventas</h3>
     <div align="center">
-      <a href="https://github.com/AlejandroCisnerosVillegas/Sistema-de-Inventario-y-Ventas-Online" target="_blank"><img src="./img/intro-banner-01.png" width="400" alt="Sistema de Inventario y Ventas Online"></a>
+      <a href="https://github.com/AlejandroCisnerosVillegas/Sistema-de-Inventario-y-Ventas-Online" target="_blank"><img src="./img/intro-banner-01.webp" width="400" alt="Sistema de Inventario y Ventas Online"></a>
       <p>
         <a href="https://github.com/AlejandroCisnerosVillegas/Sistema-de-Inventario-y-Ventas-Online" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
         <a href="https://www.alejandrovillegas.dev/projects/project-09/index.php" target="_blank"><img src="https://img.shields.io/badge/Vista_Previa-blue?style=for-the-badge&logo=circleci&logoColor=white&logoSize=auto"></a>
@@ -90,7 +90,7 @@ const alejandro = {
   <td width="50%">
     <h3 align="center">Control de Registro de Pruebas</h3>
     <div align="center">                                       
-      <a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank"><img src="./img/intro-banner-02.png" width="400" alt="Control de Registro de Pruebas"></a>
+      <a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank"><img src="./img/intro-banner-02.webp" width="400" alt="Control de Registro de Pruebas"></a>
       <br>
       <p>
         <a href="https://github.com/AlejandroCisnerosVillegas/Control-de-Registro-de-Pruebas" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -104,7 +104,7 @@ const alejandro = {
   <td width="50%">
     <h3 align="center">Plataforma de Gestión de Viajes</h3>
     <div align="center">
-      <a href="https://github.com/AlejandroCisnerosVillegas/Plataforma-de-Gestion-de-Viajes" target="_blank"><img src="./img/intro-banner-03.png" width="400" alt="Plataforma de Gestión de Viajes"></a>
+      <a href="https://github.com/AlejandroCisnerosVillegas/Plataforma-de-Gestion-de-Viajes" target="_blank"><img src="./img/intro-banner-03.webp" width="400" alt="Plataforma de Gestión de Viajes"></a>
       <p>
         <a href="https://github.com/AlejandroCisnerosVillegas/Plataforma-de-Gestion-de-Viajes" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
         <a href="https://www.alejandrovillegas.dev/projects/project-07/index.php" target="_blank"><img src="https://img.shields.io/badge/Vista_Previa-purple?style=for-the-badge&logo=circleci&logoColor=white&logoSize=auto"></a>
