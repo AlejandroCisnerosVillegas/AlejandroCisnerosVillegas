@@ -17,7 +17,7 @@
 ```javascript
 const alejandro = {
   profession: "Ingeniero en Sistemas Computacionales",
-  experience: "Más de 18 meses creando soluciones digitales.",
+  experience: "Más de 19 meses creando soluciones digitales.",
   skills: "HTML, CSS, JavaScript, PHP, MySQL, React, Vite.js, Node.js y NPM.",
   focus: "Desarrollar aplicaciones web prácticas y funcionales.",
   passion: "Transformar conceptos en interfaces visuales atractivas.",
@@ -56,6 +56,19 @@ const alejandro = {
 
 <table>
   <td width="50%">
+    <h3 align="center">CertyDrive</h3>
+    <div align="center">
+      <a href="https://github.com/AlejandroCisnerosVillegas/CertyDrive.git" target="_blank"><img src="./img/intro-banner-04.webp" width="400" alt="Sistema de Inventario y Ventas Online"></a>
+      <p>
+        <a href="https://github.com/AlejandroCisnerosVillegas/CertyDrive.git" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://www.alejandrovillegas.dev/projects/project-11/index.html" target="_blank"><img src="https://img.shields.io/badge/Vista_Previa-%23004283?style=for-the-badge&logo=circleci&logoColor=white&logoSize=auto"></a>
+      </p>
+      <p>
+        Descubre los servicios financieros de CertyDrive a través de esta landing page corporativa. 🚗💼 Ofrece una experiencia clara, moderna y optimizada, diseñada para presentar información clave y facilitar el contacto de forma rápida y sencilla.
+      </p>
+    </div>                                                                                     
+  </td>
+  <td width="50%">
     <h3 align="center">PokéApi | Pokédex</h3>
     <div align="center">
       <a href="https://github.com/AlejandroCisnerosVillegas/Pokedex-react" target="_blank"><img src="./img/intro-banner-04.webp" width="400" alt="Sistema de Inventario y Ventas Online"></a>
@@ -67,7 +80,12 @@ const alejandro = {
         Explora información de los primeros 1000 Pokémon con esta aplicación web. ⚡🖥️ Ofrece una experiencia fluida, moderna y responsiva, diseñada para facilitar la navegación y el descubrimiento de datos de manera rápida y sencilla.
       </p>
     </div>                                                                                     
-  </td>
+  </td>                                                 
+</table>
+
+<br>
+
+<table>
   <td width="50%">
     <h3 align="center">Sistema de Inventario y Ventas</h3>
     <div align="center">
@@ -81,12 +99,7 @@ const alejandro = {
         <strong>✨ Eficiencia y organización en un solo lugar.</strong>
       </p>
     </div>                                                                                     
-  </td>                                                      
-</table>
-
-<br>
-
-<table>
+  </td> 
   <td width="50%">
     <h3 align="center">Control de Registro de Pruebas</h3>
     <div align="center">                                       
@@ -101,19 +114,6 @@ const alejandro = {
       </p>
     </div> 
   </td>      
-  <td width="50%">
-    <h3 align="center">Plataforma de Gestión de Viajes</h3>
-    <div align="center">
-      <a href="https://github.com/AlejandroCisnerosVillegas/Plataforma-de-Gestion-de-Viajes" target="_blank"><img src="./img/intro-banner-03.webp" width="400" alt="Plataforma de Gestión de Viajes"></a>
-      <p>
-        <a href="https://github.com/AlejandroCisnerosVillegas/Plataforma-de-Gestion-de-Viajes" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href="https://www.alejandrovillegas.dev/projects/project-07/index.php" target="_blank"><img src="https://img.shields.io/badge/Vista_Previa-purple?style=for-the-badge&logo=circleci&logoColor=white&logoSize=auto"></a>
-      </p>
-      <p>
-        Explora, planifica y reserva tu viaje ideal con facilidad. 🏖️📅 Usuarios y administradores disfrutan de herramientas avanzadas para una gestión eficiente y sin complicaciones. <strong>✨ Tu viaje, tu experiencia, en un solo lugar.</strong>
-      </p>
-    </div>                                                                                   
-  </td>
 </table>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Actividad en GitHub </b>
