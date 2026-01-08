@@ -58,7 +58,7 @@ const alejandro = {
   <td width="50%">
     <h3 align="center">CertyDrive</h3>
     <div align="center">
-      <a href="https://github.com/AlejandroCisnerosVillegas/CertyDrive.git" target="_blank"><img src="./img/intro-banner-04.webp" width="400" alt="Sistema de Inventario y Ventas Online"></a>
+      <a href="https://github.com/AlejandroCisnerosVillegas/CertyDrive.git" target="_blank"><img src="./img/intro-banner-05.webp" width="400" alt="CertyDrive"></a>
       <p>
         <a href="https://github.com/AlejandroCisnerosVillegas/CertyDrive.git" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
         <a href="https://www.alejandrovillegas.dev/projects/project-11/index.html" target="_blank"><img src="https://img.shields.io/badge/Vista_Previa-%23004283?style=for-the-badge&logo=circleci&logoColor=white&logoSize=auto"></a>
