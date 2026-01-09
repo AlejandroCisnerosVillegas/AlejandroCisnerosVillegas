@@ -61,7 +61,7 @@ const alejandro = {
       <a href="https://github.com/AlejandroCisnerosVillegas/CertyDrive.git" target="_blank"><img src="./img/intro-banner-05.webp" width="400" alt="CertyDrive"></a>
       <p>
         <a href="https://github.com/AlejandroCisnerosVillegas/CertyDrive.git" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href="https://www.alejandrovillegas.dev/projects/project-11/index.html" target="_blank"><img src="https://img.shields.io/badge/Vista_Previa-%23004283?style=for-the-badge&logo=circleci&logoColor=white&logoSize=auto"></a>
+        <a href="https://www.alejandrovillegas.dev/" target="_blank"><img src="https://img.shields.io/badge/Vista_Previa-%23004283?style=for-the-badge&logo=circleci&logoColor=white&logoSize=auto"></a>
       </p>
       <p>
         Descubre los servicios financieros de CertyDrive a través de esta landing page corporativa. 🚗💼 Ofrece una experiencia clara, moderna y optimizada, diseñada para presentar información clave y facilitar el contacto de forma rápida y sencilla.
